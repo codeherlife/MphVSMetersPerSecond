@@ -1,0 +1,2 @@
+The speed of the car in miles per hour is: 56.73
+The speed of the car in meters per second is: 25.21
